@@ -1,0 +1,12 @@
+TESTS WITH ERRORS 
+-------------------------------
+TESTS FAILED  
+test6 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "/Users/k2i/academics/automatedgradingapp/app/testing/a-star-search/gradingtests.py", line 134, in test6
+    self.assertEqual(expand.expand_count, 6)
+AssertionError: 7 != 6
+
+-------------------------------
+TESTS SKIPPED 
+-------------------------------
